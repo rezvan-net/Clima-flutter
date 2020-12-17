@@ -1,3 +1,7 @@
+
+//Rahmani:  I did this course till sec 154 (Dr.Angela course) and could not match my longitude,
+// latitude and API key with this app and also "weatherData" can not been updated.
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
