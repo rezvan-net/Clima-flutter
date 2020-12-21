@@ -8,7 +8,8 @@ import 'location_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 
-const apiKey = '04fde7bedf9e2bda6072bbc8d17670f8';
+const apiKey = 'your API';
+// your API  Key
 
 class LoadingScreen extends StatefulWidget {
   @override
